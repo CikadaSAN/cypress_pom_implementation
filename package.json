@@ -1,0 +1,23 @@
+{
+  "name": "cypress_pom_implementation",
+  "version": "1.0.0",
+  "description": "This is a demo of Cypress using Page Object Model Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CikadaSAN/cypress_pom_implementation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CikadaSAN/cypress_pom_implementation/issues"
+  },
+  "homepage": "https://github.com/CikadaSAN/cypress_pom_implementation#readme",
+  "devDependencies": {
+    "cypress": "^14.0.2"
+  }
+}
